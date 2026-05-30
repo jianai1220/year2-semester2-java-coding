@@ -1,0 +1,30 @@
+Suggestion:
+tambah menu for each person
+
+Amiera
+1. Rider
+2. PickupOrder
+3. Vehicle
+
+Jian Ai
+1. CarbonatedDrink
+2. Sets
+3. Drink
+
+Xuan Ying
+1. ExpectedTime
+2. Location
+3. OrderTime
+
+
+Yi Tian
+1. payment
+2. credit card / tng
+3. cash 
+//4. discount
+
+Raden
+Extends from Food class
+1. Fries
+2. Chicken
+3. Dessert
